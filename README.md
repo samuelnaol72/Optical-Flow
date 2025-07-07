@@ -6,7 +6,6 @@ This project implements feature detection and optical flow tracking in C++ using
 
 - `main.cpp` — main source code
 - `CMakeLists.txt` — build configuration
-- `data/` — input images or related data
 - `videos/` — sample videos for testing
 - `results/` — output visualizations and processed results
 - `build/` — build directory for compiled binaries
